@@ -1,2 +1,2 @@
 # QG-Large-Group-Assignment
-大组作业
+作业
